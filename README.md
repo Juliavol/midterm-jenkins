@@ -1,0 +1,1 @@
+Jenkins opsschool midterm configuration
